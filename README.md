@@ -14,8 +14,22 @@ Data Retrieval: Quickly extract hidden messages from steganographic images.<br>
 Step 1 - Download or Clone the "Steganography.py" file into your System. <br>
 Step 2 - Make sure to install the required libraries given in the "requirements.txt".  <br>
 Step 3 - Run the File -> an interface of the Steganography app will be displayed.  <br>
-Step 4 - Open Image, wirte text > Hide it > Save it and then send the image to whom you want.  <br> 
+Step 4 - Open Image, wirte text > Hide it > Save it and then send the image to whom you want.  <br>
 Step 5 - Also send this "Steganography.py" file to them. Make sure that they have installed all the required libraries and imported it. <br>
 The app will run and when the user hit "show data" button, it shows the hidden data from the image.
 
-<h2> Video Demo of the Project</h2>
+<h2> Tools and Technologies Used </h2>
+Python <br>
+Tkinter <br>
+PIL <br>
+Stegano
+
+<h2>Video Demo of the Project</h2>
+
+
+https://github.com/user-attachments/assets/e550e25d-3015-4995-8eb1-f125f026b9a8
+
+
+
+
+
