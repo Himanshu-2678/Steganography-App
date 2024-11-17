@@ -1,4 +1,4 @@
-# Description of the Project
+/# Description of the Project
 Hey there, this is my first project. I made it using Tkinter, a GUI library of Python. This project i made is just for fun.
 I made it so that those who want to share some secret message to someone, they can do it without any fear to be seen. <br>
 [ P.S -> can be useful for couples, especially if there is high family restrictions 😂🤣. ]
@@ -18,4 +18,4 @@ Step 4 - Open Image, wirte text > Hide it > Save it and then send the image to w
 Step 5 - Also send this "Steganography.py" file to them. Make sure that they have installed all the required libraries and imported it. <br>
 The app will run and when the user hit "show data" button, it shows the hidden data from the image.
 
-<h2> Demo of the Project</h2>
+<h2> Video Demo of the Project</h2>
