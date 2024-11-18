@@ -3,7 +3,7 @@ Hey there, this is my first project. I made it using Tkinter, a GUI library of P
 I made it so that those who want to share some secret message to someone, they can do it without any fear to be seen. <br>
 [ P.S -> can be useful for couples, especially if there is high family restrictions 😂🤣. ]
 <h2>What is Steganography App?</h2>
-<p>A cutting-edge steganography app that blends security with simplicity, allowing users to hide confidential messages or files within images. Whether you're safeguarding sensitive data or sharing secret messages, this app ensures privacy with encryption techniques.</p>
+<p>A steganography app that blends security with simplicity, allowing users to hide confidential messages or files within images. Whether you're safeguarding sensitive data or sharing secret messages, this app ensures privacy with encryption techniques.</p>
 <h2>Features of the App</h2>
 Data Concealment: Effortlessly embed text into images without altering the visual quality.<br>
 Intuitive Interface: User-friendly design for smooth navigation and an easy setup process.<br>
