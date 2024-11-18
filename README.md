@@ -1,4 +1,4 @@
-/# Description of the Project
+# Description of the Project
 Hey there, this is my first project. I made it using Tkinter, a GUI library of Python. This project i made is just for fun.
 I made it so that those who want to share some secret message to someone, they can do it without any fear to be seen. <br>
 [ P.S -> can be useful for couples, especially if there is high family restrictions 😂🤣. ]
