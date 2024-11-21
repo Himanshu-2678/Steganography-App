@@ -117,6 +117,7 @@ def clear_image():
     lbl.image = None
 
 
+
 # Widgets and Frames
 
 # Icons
@@ -128,6 +129,8 @@ logo = PhotoImage(file="/home/himanshu_27/Downloads/logo(1).png")
 Label(root, image=logo, bg='#00246B').place(x=10, y=0)
 
 Label(root, text="PICTEXT HIDER", bg='#00246B', fg="white", font="arial 25 bold").place(x=100, y=20)
+
+
 
 # First Frame
 f1 = Frame(root, bd=3, bg='black', width=340, height=280, relief=GROOVE)
@@ -143,6 +146,8 @@ clear_button.place(x=300, y=0)
 root.drop_target_register(DND_FILES)
 root.dnd_bind('<<Drop>>', on_drop)
 
+
+
 # Second Frame
 f2 = Frame(root, bd=3, bg='white', width=340, height=280, relief=GROOVE)
 f2.place(x=360, y=80)
@@ -156,6 +161,8 @@ scroolbar1.place(x=320, y=0, height=300)
 scroolbar1.configure(command=text1.yview)
 text1.configure(yscrollcommand=scroolbar1.set)
 
+
+
 # Third Frame
 f3 = Frame(root, bd=3, bg='#CADCFC', width=330, height=100, relief=RAISED)
 f3.place(x=15, y=380)
@@ -164,6 +171,8 @@ Button(f3, text='Open Image', width=10, height=2, font='arial 14 bold', command=
 Button(f3, text='Save Image', width=10, height=2, font='arial 14 bold', command=saveimage).place(x=180, y=30)
 Label(f3, text="Select options", bg='#CADCFC', fg='#00246B').place(x=20, y=5)
 
+
+
 # Fourth Frame
 f4 = Frame(root, bd=3, bg='#CADCFC', width=330, height=100, relief=RAISED)
 f4.place(x=370, y=380)
@@ -171,5 +180,7 @@ f4.place(x=370, y=380)
 Button(f4, text='Hide Data', width=10, height=2, font='arial 14 bold', command=hide).place(x=20, y=30)
 Button(f4, text='Show Data', width=10, height=2, font='arial 14 bold', command=show).place(x=180, y=30)
 Label(f4, text='Functions', bg='#CADCFC', fg='#00246B').place(x=20, y=5)
+
+
 
 root.mainloop()
